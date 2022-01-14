@@ -1,10 +1,5 @@
 # SchoolManagementSystemJava
-This OOPS project is made by Chirag Maheshwari and Kshitij Garg using Java Swing/AWT and MySQL.
-
-Project 18: School Management System
-DOCUMENTATION
-Name: Chirag Maheshwari				Name: Kshitij Garg
-ID: 2020A7PS0983P					ID: 2020A7PS0120P
+This OOPS project
 Link to Github
 https://drive.google.com/drive/folders/1AfskNU1nYXqKtepwr5muc6q8Q84P_GpY
 
